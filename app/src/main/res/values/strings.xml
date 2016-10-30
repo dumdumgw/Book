@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Book</string>
+    <string name="search_add_hint">검색어를 입력하세요</string>
+
+    <string name="home">Home</string>
+    <string name="book">Book</string>
+    <string name="sosul">소설</string>
+    <string name="it">IT</string>
+    <string name="language">외국어</string>
+</resources>
